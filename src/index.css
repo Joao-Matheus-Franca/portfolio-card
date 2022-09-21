@@ -42,7 +42,7 @@
   width: 200px;
   position: absolute;
   margin-left: 180px;
-  margin-top: 120px;
+  margin-top: 100px;
   border-radius: 10px;
 }
 
@@ -61,8 +61,12 @@ h1 {
   margin: 2px;
 }
 
+h2 {
+  margin: 5px;
+}
+
 h3 {
-   margin: 5px;
+  margin: 5px;
 }
 
 body {
