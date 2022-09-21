@@ -1,0 +1,10 @@
+#main-header {
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.values {
+  font-weight: 100;
+}
